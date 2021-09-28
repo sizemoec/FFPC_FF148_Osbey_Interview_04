@@ -23,6 +23,14 @@
         "id": "https://sizemoec.github.io/FFPC_FF148_Osbey_Interview_04/ff148/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2377.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sizemoec.github.io/FFPC_FF148_Osbey_Interview_04/ff148/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+        ],
         "items": [
           {
             "id": "https://sizemoec.github.io/FFPC_FF148_Osbey_Interview_04/ff148/canvas-1/paintings",
