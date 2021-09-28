@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Brenda Marie Osbey Interview, 9/24/2004" ] },
+    "summary": { "en": [ "Carmen Gillespie interviews Brenda Marie Osbey, camera stays on Osbey" ] },
+    "items": [
+    ]
+}
